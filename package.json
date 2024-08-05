@@ -1,0 +1,21 @@
+{
+  "name": "all-quiz-system-mrkhan",
+  "version": "1.0.0",
+  "description": "The app will show the students \"mcqs\" and promt the user to reply. In the end it will show the result of the quiz.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
